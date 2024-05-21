@@ -1,3 +1,4 @@
+/* Algoritmo Simples para aplicar bubble sort num array de inteiros*/
 #include <stdio.h>
 
 int bubble_sort(int vetor[20]){        /* Bubble Sort Algoritmo*/
